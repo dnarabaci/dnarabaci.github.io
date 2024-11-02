@@ -1,11 +1,3 @@
 # ODI-N Podcast soon
 
-<html>
-
-<body>
-  <h1>Duygu's page</h1>
-  <p>Welcome to my website!</p>
-  <img src="https://content.codecademy.com/articles/github-pages-via-web-app/happy-ice-cream.gif" />
-</body>
-
-</html>
+This is the website for ODI-N Podcast! Coming soon...
